@@ -16,7 +16,7 @@ export default function Home() {
           Kubernetes, JavaScript, TypeScript, .NET, Python, etc...
         </p>
         <p>
-          <a href="mailto: harald@codemover.com">harald@codemover.com</a>
+          <a href="mailto: hello@codemover.com">hello@codemover.com</a>
         </p>
       </main>
     </div>
